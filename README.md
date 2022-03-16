@@ -78,4 +78,3 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 16 March, 13:10 CET<br />
