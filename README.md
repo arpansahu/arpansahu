@@ -39,17 +39,21 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🛎 Live Link</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/arpansahu/django-project"><b>Django Project</b></a></td>
+      <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/arpansahu/django-react-frontend"><b>React Blog App</b></a></td>
+      <td><a href="https://react-materialui-complete.herokuapp.com/login"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Dajngo Rest API App for blog App</b></a></td>
+      <td><a href="https://react-backend-social.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
   </tbody>
 </table>
