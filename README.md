@@ -47,7 +47,11 @@
       <td><a href="https://github.com/arpansahu/django-project"><b>Django Project</b></a></td>
       <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
-	  <tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Django Simple Numeric Calculator Web App</b></a></td>
+      <td><a href="https://django-numerical-calculator.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/arpansahu/django-react-frontend"><b>React Blog App</b></a></td>
       <td><a href="https://react-materialui-complete.herokuapp.com/login"><b>Live at</b></a></td>
     </tr>
