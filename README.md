@@ -48,6 +48,10 @@
       <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/arpansahu/django-chat-app-tortise-with-sqlite3"><b>Django Chat Project with Tortoise ORM (SQlite ver)</b></a></td>
+      <td><a href="http://django-chat-app-version1.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Django Simple Numeric Calculator Web App</b></a></td>
       <td><a href="https://django-numerical-calculator.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
