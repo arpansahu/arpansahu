@@ -35,7 +35,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </p>
-<h3>rojects</h3>
+<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
