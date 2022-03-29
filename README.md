@@ -64,6 +64,10 @@
       <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Dajngo Rest API App for React Blog App</b></a></td>
       <td><a href="https://react-backend-social.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/djnago-custom-user-model"><b>Dajngo Custom Auth User Model from AbstractBaseUser</b></a></td>
+      <td><a href="https://django-custom-auth-model.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 <p>
