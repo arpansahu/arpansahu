@@ -72,6 +72,10 @@
       <td><a href="https://github.com/arpansahu/django-all-auth"><b>Django All Auth Implementation</b></a></td>
       <td><a href="https://django-all-auth.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/Third-Eye-Complete-With-a-web-app"><b>Third Eye (Divya Drishti)</b></a></td>
+      <td><a href="https://third-eye-divya-drishti.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 <p>
