@@ -3,6 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Arpan, Fullstack developer from <img  src="https://flagcdn.com/w20/in.png"
   srcset="https://flagcdn.com/w40/in.png 2x" width="13"/> <b>Indore, India</b>. </p>
+  Open to Work Serving Notice Period from 13 th april 22 for 90 days. Opem for offers above 12 LPA.
 <h3>Things I code with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
