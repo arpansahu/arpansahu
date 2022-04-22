@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Arpan, Fullstack developer from <img  src="https://flagcdn.com/w20/in.png"
   srcset="https://flagcdn.com/w40/in.png 2x" width="13"/> <b>Indore, India</b>. </p>
-  Open to Work Serving Notice Period from 13 th april 22 for 90 days. Opem for offers above 12 LPA.
+  Open to Work Serving Notice Period from 13 th april 22 for 90 days. Open for offers above 12 LPA.
 <h3>Things I code with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -34,6 +34,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 
 </p>
 <h3>Projects</h3>
@@ -76,6 +77,10 @@
     <tr>
       <td><a href="https://github.com/arpansahu/Third-Eye-Complete-With-a-web-app"><b>Third Eye (Divya Drishti)</b></a></td>
       <td><a href="https://third-eye-divya-drishti.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/premium-collection-point"><b>Premium Collection Point</b></a></td>
+      <td><a href="https://premiumcollectionpoint.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
   </tbody>
 </table>
