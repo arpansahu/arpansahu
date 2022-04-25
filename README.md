@@ -55,19 +55,19 @@
       <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-chat-app-tortise-with-sqlite3"><b>Django Chat Project with Tortoise ORM (SQlite ver)</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-chat-app-tortise-with-sqlite3"><b>Great Chat | Django Chat Project with Tortoise ORM (SQlite ver)</b></a></td>
       <td><a href="http://django-chat-app-version1.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Django Simple Numeric Calculator Web App</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
       <td><a href="https://django-numerical-calculator.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-react-frontend"><b>React Blog App</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-react-frontend"><b>Altered Datum | React Blog App</b></a></td>
       <td><a href="https://react-materialui-complete.herokuapp.com/login"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Dajngo Rest API App for React Blog App</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Altered Datum API| Dajngo Rest API App for React Blog App</b></a></td>
       <td><a href="https://react-backend-social.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
