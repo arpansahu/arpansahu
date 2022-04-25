@@ -67,7 +67,7 @@
       <td><a href="https://react-materialui-complete.herokuapp.com/login"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Altered Datum API| Dajngo Rest API App for React Blog App</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Altered Datum API | Dajngo Rest API App for React Blog App</b></a></td>
       <td><a href="https://react-backend-social.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
