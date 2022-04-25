@@ -49,7 +49,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-project"><b>Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
+      <td><a href="https://github.com/arpansahu/django-project"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
       <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
