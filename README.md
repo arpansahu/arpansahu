@@ -75,7 +75,7 @@
       <td><a href="https://django-custom-auth-model.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/arpansahu/django-all-auth"><b>Django All Auth Implementation</b></a></td>
+      <td><a href="https://github.com/arpansahu/django-all-auth"><b>OWL EYES | Django All Auth Implementation</b></a></td>
       <td><a href="https://django-all-auth.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
