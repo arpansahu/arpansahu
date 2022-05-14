@@ -92,6 +92,10 @@
       <td><a href="https://github.com/arpansahu/premium-collection-point"><b>Premium Collection Point</b></a></td>
       <td><a href="https://premiumcollectionpoint.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://www.arpansahu.me/projects/11"><b>Technorigger</b></a></td>
+      <td><a href="https://technorigger-admin.xyz/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 <p>
