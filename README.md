@@ -96,6 +96,10 @@
       <td><a href="https://www.arpansahu.me/projects/11"><b>Technorigger</b></a></td>
       <td><a href="https://technorigger-admin.xyz/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Works | Django Redis-Clelery-Channels-Websockets Integration</b></a></td>
+      <td><a href="https://clock-works.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 <p>
