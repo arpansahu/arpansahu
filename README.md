@@ -102,6 +102,8 @@
     </tr>
   </tbody>
 </table>
+![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpansahu&show_icons=true&theme=radical)
+
 <p>
   A Software Developer who learns by doing, I’ve diligently
   worked on acquiring skills to be a very versatile
