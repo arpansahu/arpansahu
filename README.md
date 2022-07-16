@@ -99,6 +99,10 @@
       <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Works | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
       <td><a href="https://clock-works.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django Custom Reset View Implementation</b></a></td>
+      <td><a href="https://school-chale-hum.herokuapp.com/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 
