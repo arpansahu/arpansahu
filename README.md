@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Arpan, Fullstack/Backend developer from <img  src="https://flagcdn.com/w20/in.png"
-  srcset="https://flagcdn.com/w40/in.png 2x" width="13"/> <b>Indore, India</b>. </p>
+  srcset="https://flagcdn.com/w40/in.png 2x" width="13"/> <b>Pune, India</b>. </p>
   
   <a href="https://www.arpansahu.me" target="_blank"> Checkout my portfolio </a>
 <h3>Things I code with</h3>
