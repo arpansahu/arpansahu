@@ -104,6 +104,10 @@
       <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django Custom Reset View Implementation</b></a></td>
       <td><a href="https://school-chale-hum.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/borcelle_crmm"><b>Borcelle CRM | Django Customer relationship management App </b></a></td>
+      <td><a href="https://borcelle-crm.arpansahu.me/"><b>Live at</b></a></td>
+    </tr>
   </tbody>
 </table>
 
