@@ -93,9 +93,9 @@
       <td><a href="https://premiumcollectionpoint.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><b>Technorigger</b></a></td>
-      <td><a href="https://github.com/arpansahu/jobportal-admin-panel"><b>Admin Panel</b></a></td>
-      <td><a href="https://github.com/arpansahu/jobportal-cron"><b>Admin Panel</b></a></td>
+      <td><b>Technorigger</b></a>
+      <a href="https://github.com/arpansahu/jobportal-admin-panel"><b>Admin Panel</b></a>
+      <a href="https://github.com/arpansahu/jobportal-cron"><b>Admin Panel</b></a></td>
       <td><a href="https://technorigger-admin.xyz/"><b>Admin Panel Live at</b></a></td>
     </tr>
     <tr>
