@@ -58,11 +58,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-project"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
-      <td><a href="https://django-project-api-crud-graphq.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://django-project-api-crud-graphq.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-chat-app-tortise-with-sqlite3"><b>Great Chat | Django Chat Project with Tortoise ORM (SQlite ver)</b></a></td>
-      <td><a href="http://django-chat-app-version1.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="http://django-chat-app-version1.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
@@ -70,41 +70,41 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-react-frontend"><b>Altered Datum | React Blog App</b></a></td>
-      <td><a href="https://react-materialui-complete.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://react-materialui-complete.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Altered Datum API | Django Rest API App for React Blog App</b></a></td>
-      <td><a href="https://react-backend-social.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://react-backend-social.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/djnago-custom-user-model"><b>Geek Glasses | Django Custom Auth User Model from AbstractBaseUser</b></a></td>
-      <td><a href="https://django-custom-auth-model.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://django-custom-auth-model.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/arpansahu/django-all-auth"><b>OWL EYES | Django All Auth Implementation</b></a></td>
-      <td><a href="https://django-all-auth.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://django-all-auth.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/Third-Eye-Complete-With-a-web-app"><b>Third Eye (Divya Drishti)</b></a></td>
-      <td><a href="https://third-eye-divya-drishti.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://third-eye-divya-drishti.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/premium-collection-point"><b>Premium Collection Point</b></a></td>
-      <td><a href="https://premiumcollectionpoint.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://premiumcollectionpoint.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><b>Technorigger</b></a>
       <a href="https://github.com/arpansahu/jobportal-admin-panel"><b>Admin Panel</b></a>
       <a href="https://github.com/arpansahu/jobportal-cron"><b>Cron Job</b></a></td>
-      <td><a href="https://technorigger-admin.xyz/"><b>Admin Panel Live at</b></a></td>
+      <td><a href="https://technorigger-admin.arpansahu.me/"><b>Admin Panel Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Works | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
-      <td><a href="https://clock-works.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://clock-works.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django Custom Reset View Implementation</b></a></td>
-      <td><a href="https://school-chale-hum.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://school-chale-hum.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/borcelle_crm"><b>Borcelle CRM | Django Customer relationship management App </b></a></td>
