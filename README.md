@@ -61,8 +61,8 @@
       <td><a href="https://django-project-api-crud-graphq.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-chat-app-tortise-with-sqlite3"><b>Great Chat | Django Chat Project with Tortoise ORM (SQlite ver)</b></a></td>
-      <td><a href="http://django-chat-app-version1.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/great-chat"><b>Great Chat | Django Chat Project with Django Channels and HTMX</b></a></td>
+      <td><a href="http://great-chat.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
