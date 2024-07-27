@@ -53,12 +53,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/arpansahu/arpansahu.me"><b>arpansahu | Django Personal Portfolio </b></a></td>
+      <td><a href="https://github.com/arpansahu/arpansahu-dot-me"><b>arpansahu | Django Personal Portfolio </b></a></td>
       <td><a href="https://www.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-project"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
-      <td><a href="https://django-project-api-crud-graphq.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/chew-and-cheer"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
+      <td><a href="https://chew-and-cheer.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/great-chat"><b>Great Chat | Django Chat Project with Django Channels and HTMX</b></a></td>
