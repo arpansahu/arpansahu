@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
-      <td><a href="https://django-numerical-calculator.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://numerical.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/django-react-frontend"><b>Altered Datum | React Blog App</b></a></td>
