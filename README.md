@@ -65,7 +65,7 @@
       <td><a href="http://great-chat.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-numeric-calculator"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
+      <td><a href="https://github.com/arpansahu/numerical"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
       <td><a href="https://numerical.herokuapp.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
