@@ -103,7 +103,7 @@
       <td><a href="https://clock-works.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django Custom Reset View Implementation</b></a></td>
+      <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django Custom Rest View Implementation</b></a></td>
       <td><a href="https://school-chale-hum.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
