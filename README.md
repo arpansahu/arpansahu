@@ -11,6 +11,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="DjangoRestFramework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="FAST API" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -66,31 +67,31 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/numerical"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
-      <td><a href="https://numerical.herokuapp.com/"><b>Live at</b></a></td>
+      <td><a href="https://numerical.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-react-frontend"><b>Altered Datum | React Blog App</b></a></td>
-      <td><a href="https://react-materialui-complete.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/altered_datum"><b>Altered Datum | React Blog App</b></a></td>
+      <td><a href="https://altered-datum.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/django-react-backend-with-social"><b>Altered Datum API | Django Rest API App for React Blog App</b></a></td>
-      <td><a href="https://react-backend-social.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/altered_datum_api"><b>Altered Datum API | Django Rest API App for React Blog App</b></a></td>
+      <td><a href="https://altered-datum-api.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/djnago-custom-user-model"><b>Geek Glasses | Django Custom Auth User Model from AbstractBaseUser</b></a></td>
-      <td><a href="https://django-custom-auth-model.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/geek_glasses"><b>Geek Glasses | Django Custom Auth User Model from AbstractBaseUser</b></a></td>
+      <td><a href="https://geek-glasses.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/arpansahu/django-all-auth"><b>OWL EYES | Django All Auth Implementation</b></a></td>
-      <td><a href="https://django-all-auth.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/owl_eyes"><b>OWL EYES | Django All Auth Implementation</b></a></td>
+      <td><a href="https://owl-eyes.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/Third-Eye-Complete-With-a-web-app"><b>Third Eye (Divya Drishti)</b></a></td>
-      <td><a href="https://third-eye-divya-drishti.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/third_eye"><b>Third Eye (Divya Drishti)</b></a></td>
+      <td><a href="https://third-eye.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/premium-collection-point"><b>Premium Collection Point</b></a></td>
-      <td><a href="https://premiumcollectionpoint.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/premium_collection_point"><b>Premium Collection Point</b></a></td>
+      <td><a href="https://premium-collection-point.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><b>Technorigger</b></a>
@@ -99,8 +100,8 @@
       <td><a href="https://technorigger-admin.arpansahu.me/"><b>Admin Panel Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Works | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
-      <td><a href="https://clock-works.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Work | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
+      <td><a href="https://clock-work.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django School Management App</b></a></td>
