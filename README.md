@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/premium_collection_point"><b>Premium Collection Point</b></a></td>
-      <td><a href="https://premium-collection-point.arpansahu.me/"><b>Live at</b></a></td>
+      <td><b>No Longer Supported</b></a></td>
     </tr>
     <tr>
       <td><b>Technorigger</b></a>
