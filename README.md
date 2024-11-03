@@ -50,7 +50,23 @@
   <img alt="Minio" src="https://img.shields.io/badge/MINIO-TEXT?style=for-the-badge&logo=minio&logoColor=white&color=%23C72E49"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="Harbor" src="https://img.shields.io/badge/HARBOR-TEXT?style=for-the-badge&logo=harbor&logoColor=white&color=blue"/>
-
+  <!-- Missing Badges -->
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell_Scripting-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Google Maps" src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-8D67A4?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img alt="NameCheap" src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" />
+  <img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
+  <img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+  <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img alt="PyPI" src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  <img alt="Rancher" src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-4CAF50?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-1E5A61?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img alt="DNS" src="https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=dns&logoColor=white" />
 </p>
 <h3>Projects</h3>
 <table>
