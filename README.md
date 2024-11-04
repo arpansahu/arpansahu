@@ -95,7 +95,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/razorpay-ipn-django-handler"><b>Razorpay IPN Django Handler | An OpenSource Python Library to handle webhooks </b></a></td>
-      <td><a href="[https://www.arpansahu.me/](https://pypi.org/project/razorpay-ipn-django-handler/)"><b>Install Via</b></a></td>
+      <td><a href="https://pypi.org/project/razorpay-ipn-django-handler/"><b>Install Via</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/borcelle_crm"><b>Borcelle CRM | Django Customer relationship management App </b></a></td>
