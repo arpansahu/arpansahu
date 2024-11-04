@@ -67,6 +67,7 @@
   <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy-1E5A61?style=for-the-badge&logo=scrapy&logoColor=white" />
   <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
   <img alt="DNS" src="https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=dns&logoColor=white" />
+  <img alt="DEVOPS" src="https://img.shields.io/badge/DNS-0052CC?style=for-the-badge&logo=dns&logoColor=white" />
 </p>
 <h3>Projects</h3>
 <table>
