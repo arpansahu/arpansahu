@@ -78,20 +78,40 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/arpansahu/arpansahu_dot_me"><b>arpansahu | Django Personal Portfolio </b></a></td>
-      <td><a href="https://www.arpansahu.me/"><b>Live at</b></a></td>
+      <td><b>Scrape Optimus | Your Complete Toolbox for Web Scraping </b></a></td>
+      <td><a href="https://scrapeoptimus.com/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/chew_and_cheer"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
-      <td><a href="https://chew-and-cheer.arpansahu.me/"><b>Live at</b></a></td>
+      <td><b>Talent Brdiged | Connecting Talent to Opportunities, One Bridge at a Time. </b></a>
+      <td><a href="https://talentbridged.com/"><b> Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/arpansahu_dot_me"><b>arpansahu | Django Personal Portfolio </b></a></td>
+      <td><a href="https://www.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/great_chat"><b>Great Chat | Django Chat Project with Django Channels and HTMX</b></a></td>
       <td><a href="http://great-chat.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/numerical"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
-      <td><a href="https://numerical.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/razorpay-ipn-django-handler"><b>Razorpay IPN Django Handler | An OpenSource Python Library to handle webhooks </b></a></td>
+      <td><a href="[https://www.arpansahu.me/](https://pypi.org/project/razorpay-ipn-django-handler/)"><b>Install Via</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/borcelle_crm"><b>Borcelle CRM | Django Customer relationship management App </b></a></td>
+      <td><a href="https://borcelle-crm.arpansahu.me/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Work | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
+      <td><a href="https://clock-work.arpansahu.me/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/third_eye"><b>Third Eye (Divya Drishti)</b></a></td>
+      <td><a href="https://third-eye.arpansahu.me/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django School Management App</b></a></td>
+      <td><a href="https://school-chale-hum.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/altered_datum"><b>Altered Datum | React Blog App</b></a></td>
@@ -102,59 +122,46 @@
       <td><a href="https://altered-datum-api.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/geek_glasses"><b>Geek Glasses | Django Custom Auth User Model from AbstractBaseUser</b></a></td>
-      <td><a href="https://geek-glasses.arpansahu.me/"><b>Live at</b></a></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/arpansahu/owl_eyes"><b>OWL EYES | Django All Auth Implementation</b></a></td>
-      <td><a href="https://owl-eyes.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/chew_and_cheer"><b>Chew and Cheer | Django Project CRUD using AJAX, DJANGO FORMS, GRAPHQL and DJANGO REST/GRAPHQL APIs </b></a></td>
+      <td><a href="https://chew-and-cheer.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/third_eye"><b>Third Eye (Divya Drishti)</b></a></td>
-      <td><a href="https://third-eye.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/django_starter"><b>Django Starter | A Quickstarter Django 5.0 Project</b></a></td>
+      <td><a href="https://django-starter.arpansahu.me/"><b>Live at</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arpansahu/numerical"><b>Numerical | Django Simple Numeric Calculator Web App</b></a></td>
+      <td><a href="https://numerical.arpansahu.me/"><b>Live at</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/arpansahu/premium_collection_point"><b>Premium Collection Point</b></a></td>
-      <td><b>No Longer Supported</b></a></td>
+      <td><b>No Longer Live</b></a></td>
     </tr>
     <tr>
-      <td><b>Technorigger</b></a>
-      <a href="https://github.com/arpansahu/jobportal-admin-panel"><b>Admin Panel</b></a>
-      <a href="https://github.com/arpansahu/jobportal-cron"><b>Cron Job</b></a></td>
-      <td><a href="https://technorigger-admin.arpansahu.me/"><b>Admin Panel Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/geek_glasses"><b>Geek Glasses | Django Custom Auth User Model from AbstractBaseUser</b></a></td>
+      <td><b>No Longer Live</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/arpansahu/owl_eyes"><b>OWL EYES | Django All Auth Implementation</b></a></td>
+      <td><b>No Longer Live</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/arpansahu/clock_work"><b>Clock Work | Django Redis-Celery-Channels-Websockets Integration</b></a></td>
-      <td><a href="https://clock-work.arpansahu.me/"><b>Live at</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/arpansahu/school_chale_hum"><b>School Chale Hum | Django School Management App</b></a></td>
-      <td><a href="https://school-chale-hum.arpansahu.me/"><b>Live at</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/arpansahu/borcelle_crm"><b>Borcelle CRM | Django Customer relationship management App </b></a></td>
-      <td><a href="https://borcelle-crm.arpansahu.me/"><b>Live at</b></a></td>
+      <td><a href="https://github.com/arpansahu/great_chat_legacy"><b>Great Chat Legacy | A Django Chat app </b></a></td>
+      <td><b>No Longer Live</b></a></td>
     </tr>
   </tbody>
 </table>
 
 <p>
-  A Software Developer who learns by doing, I’ve diligently
-  worked on acquiring skills to be a very versatile
-  engineer. having a passion to solve complex real-life
-  the problem, quick at wrapping my head around new
-  things. Love to code.</br>
-  I love to be in the technological field of work, as
-  technology excites me a lot and I am passionate
-  about it . Today, nothing changes faster than this
-  the tech world, and rather than trying to keep up with the
-  the change I want to be a part of the change and lead
-  the change
+As a Full Stack Developer, I’ve evolved into a highly versatile engineer capable of designing, building, and scaling robust systems. Over the years, I've honed my software engineering skills and developed a passion for architecting reliable and efficient solutions. Whether integrating seamless payment systems or designing scalable system architecture, I focus on transforming complex ideas into functional and impactful products.
+</p>
+<p>
+My journey has been driven by a love for technology, which goes beyond just keeping up with trends—I aim to be at the forefront of change, contributing to and leading innovations. From building end-to-end applications to tackling real-world problems through creative engineering solutions, I am constantly motivated by the challenge of improving, creating, and making a tangible impact in the tech world.
 </p>
 
 <h3>Where to find me?</h3>
 <p><a href="https://github.com/arpansahu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/arpansahu_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arpansahu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href= "mailto:arpansahu@zohomail.in"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href= "mailto:arpansahu@zohomail.in"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 
